@@ -1,5 +1,7 @@
 Throughout the assignment, here are some observations that I made:
 
 1. When sorting the data by gender, most purchases and the most revenue were made by men. 
+
 2. Most players were in the 20-24 age group.
+
 3. The "Final Critic" item made both the most money and was also bought the most times. 
